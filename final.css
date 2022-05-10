@@ -1,0 +1,45 @@
+h1 {
+	text-align: center;
+	border-top: 15px;
+	border-bottom: 15px;
+	border-right: 15px;
+	border-left: 15px;
+	border-color: black;
+	border-style: solid;
+	font-family: Times New Roman;
+	font-weight: bold;
+	padding: 15px;
+	color: red;
+
+}
+
+h3 {
+	text-align: center;
+}
+
+body {
+	padding: 15px;
+	font-family: Arial; sans-serif;
+	background-color: lightgray;
+	font-size: 18px;
+
+}
+
+.Viz_Scatter {
+	background-color: white;
+	margin-left: 20px;
+	margin-right: 20px;
+}
+
+.Viz_Map {
+	background-color: white;
+	margin-left: 20px;
+	margin-right: 20px;
+}
+
+.Viz_Pie {
+	background-color: white;
+	margin-left: 20px;
+	margin-right: 20px;
+}
+
